@@ -40,3 +40,12 @@
   - [5.6 발표 자료](https://dunedine.tistory.com/5?category=1100151)
   - [5.7 발표 자료](https://dunedine.tistory.com/6?category=1100151)
 - 발표 영상: [발표 영상](https://drive.google.com/file/d/1nXsuMrjtPPi0Vgrb8c70hOWPCbcfevoK/view?usp=sharing)
+
+### 4주차(22.09.26)
+- <6장 자전거 대여 수요 예측 경진대회> 발표
+- 발표자: 최승현
+  - [경진대회 이해~탐색적 데이터 분석_발표 자료](https://vulter3653.tistory.com/22)
+  - [발표 영상](https://drive.google.com/file/d/1DTxy2FmG7RyXBaORuWfm_x6JAerSlTnN/view?usp=sharing)
+- 발표자: 주은진
+  - [베이스라인 모델~성능 개선_발표 자료](https://dunedine.tistory.com/8?category=1100151)
+  - [발표 영상](https://drive.google.com/file/d/1iLLTPEoGX5GKDLUx01aSUCOs8Jkz2hbD/view?usp=sharing)
