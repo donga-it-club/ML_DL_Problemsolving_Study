@@ -49,3 +49,12 @@
 - 발표자: 주은진
   - [베이스라인 모델~성능 개선_발표 자료](https://dunedine.tistory.com/8?category=1100151)
   - [발표 영상](https://drive.google.com/file/d/1iLLTPEoGX5GKDLUx01aSUCOs8Jkz2hbD/view?usp=sharing)
+
+### 5주차(22.10.04)
+- <7장 범주형 데이터 이진분류 경진대회> 7.1~7.2 발표
+- 발표자: 권미정
+  - [발표 자료 1](https://mjrecord.tistory.com/15?category=1080906), [발표 자료 2](https://mjrecord.tistory.com/16?category=1080906)
+  - [발표 영상](https://drive.google.com/file/d/1cTA_tFPTIbFycHXAIh9uB6r9Sc7zULCX/view?usp=sharing)
+- 발표자: 공아영
+  - [발표 자료](https://gongboogi.tistory.com/7)
+  - [발표 영상](https://drive.google.com/file/d/1MiZceCRTKR2ROhTvtOMuzGI-A-VB2bHM/view?usp=sharing)
