@@ -58,3 +58,12 @@
 - 발표자: 공아영
   - [발표 자료](https://gongboogi.tistory.com/7)
   - [발표 영상](https://drive.google.com/file/d/1MiZceCRTKR2ROhTvtOMuzGI-A-VB2bHM/view?usp=sharing)
+  
+### 6주차(22.10.31)
+- <7장 범주형 데이터 이진분류 경진대회> 7.3~7.5 발표
+- 발표자: 최승현
+  - [발표 자료](https://vulter3653.tistory.com/26)
+  - [발표 영상](https://drive.google.com/file/d/1Q88CugtT7qhylbWYYy5TqUZmaPAUYUKR/view?usp=share_link)
+- 발표자: 주은진
+  - [발표 자료](https://dunedine.tistory.com/9?category=1100151)
+  - [발표 영상](https://drive.google.com/file/d/1Ktx1LDb7vkKypw873YeUZLVXurh3jacT/view?usp=share_link)
