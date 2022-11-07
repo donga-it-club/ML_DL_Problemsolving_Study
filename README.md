@@ -8,7 +8,7 @@
 - 최승현
 
 ## 스터디 방식
-- 매주 월요일 저녁 9시 30분에 줌으로 진행한다.
+- 매주 월요일 **저녁 9시 또는 9시 30분**에 줌으로 진행한다.
 - 활용 도서: [머신러닝 딥러닝 문제해결 전략](https://han.gl/oyGvZl)
   - 1부: 캐글 소개와 문제해결 프로세스
   - 2부: 머신러닝 문제해결
@@ -16,6 +16,7 @@
 - 2주차에 책 1부 발표를 마무리한다.
 - 3주차부터 2부 발표를 시작하며, 경진대회 하나를 **경진대회 이해와 탐색적 데이터 분석**과 **베이스라인 모델 및 성능 개선** 파트로 나누어 2주에 걸쳐 실습과 발표를 진행한다.
 - 발표는 한 주에 2명이 하며, 다음 발표자는 각 스터디가 끝난 후 정한다.
+- 각 발표가 끝난 후, **발표에 대한 피드백**을 진행한다.
 
 ## 스터디 진행 상황
 ### 1주차(22.09.05)
@@ -67,3 +68,21 @@
 - 발표자: 주은진
   - [발표 자료](https://dunedine.tistory.com/9?category=1100151)
   - [발표 영상](https://drive.google.com/file/d/1Ktx1LDb7vkKypw873YeUZLVXurh3jacT/view?usp=share_link)
+
+### 7주차(22.11.07)
+- <8장 안전 운전자 예측 경진대회> 8.1~8.2 발표
+- 발표자: 공아영
+  - [발표 자료](https://gongboogi.tistory.com/8)
+  - [발표 영상](https://drive.google.com/file/d/1Lh9rjVg3GXJ4L_eX6SiSD7LZC62ttXmI/view?usp=share_link)
+- 발표자: 최승현
+  - [발표 자료](https://vulter3653.tistory.com/27)
+  - [발표 영상](https://drive.google.com/file/d/1N3svsdzzrzIVNFwyEsWmtZ5Kux1xkf4u/view?usp=share_link)
+  
+### 8주차(22.11.14)
+- <8장 안전 운전차 예측 경진대회> 8.3~8.6 발표
+- 발표자: 권미정
+  - [발표 자료]
+  - [발표 영상]
+- 발표자: 주은진
+  - [발표 자료]
+  - [발표 영상]
