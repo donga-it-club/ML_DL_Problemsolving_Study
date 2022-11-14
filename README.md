@@ -8,7 +8,7 @@
 - 최승현
 
 ## 스터디 방식
-- 매주 월요일 **저녁 9시 또는 9시 30분**에 줌으로 진행한다.
+- 매주 월요일 **저녁 9시 또는 9시 30분**에 줌으로 카메라를 키고 .
 - 활용 도서: [머신러닝 딥러닝 문제해결 전략](https://han.gl/oyGvZl)
   - 1부: 캐글 소개와 문제해결 프로세스
   - 2부: 머신러닝 문제해결
@@ -81,6 +81,15 @@
 ### 8주차(22.11.14)
 - <8장 안전 운전차 예측 경진대회> 8.3~8.6 발표
 - 발표자: 권미정
+  - [발표 자료](https://mjrecord.tistory.com/17)
+  - [발표 영상](https://drive.google.com/file/d/13NR0CErRTFlxC9JMXGKdlMQh1M76sd12/view?usp=share_link)
+- 발표자: 주은진
+  - [발표 자료 1](https://dunedine.tistory.com/11), [발표 자료 2](https://dunedine.tistory.com/12), [발표 자료 3](https://dunedine.tistory.com/13)
+  - [발표 영상](https://drive.google.com/file/d/1qR_SXSYh2IQbhHaQfjPjVs5who1akh28/view?usp=share_link)
+
+### 9주차(22.11.21)
+- <9장 향후 판매량 예측 경진대회> 9.1~9.2 발표
+- 발표자: 공아영
   - [발표 자료]
   - [발표 영상]
 - 발표자: 주은진
