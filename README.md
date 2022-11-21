@@ -81,7 +81,7 @@
 ### 8주차(22.11.14)
 - <8장 안전 운전차 예측 경진대회> 8.3~8.6 발표
 - 발표자: 권미정
-  - [발표 자료](https://mjrecord.tistory.com/17)
+  - [발표 자료 1](https://mjrecord.tistory.com/17), [발표 자료 2](https://mjrecord.tistory.com/18)
   - [발표 영상](https://drive.google.com/file/d/13NR0CErRTFlxC9JMXGKdlMQh1M76sd12/view?usp=share_link)
 - 발표자: 주은진
   - [발표 자료 1](https://dunedine.tistory.com/11), [발표 자료 2](https://dunedine.tistory.com/12), [발표 자료 3](https://dunedine.tistory.com/13)
