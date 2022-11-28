@@ -100,4 +100,23 @@
 ### 10주차(22.11.28)
 - <9장 향후 판매량 예측 경진대회> 9.3~9.4 발표
 - 발표자: 권미정
+  - [발표 자료 1](https://mjrecord.tistory.com/19), [발표 자료 2](https://mjrecord.tistory.com/20)
+  - [발표 영상](https://drive.google.com/file/d/1AKm2w5X8HD_xxPTP_p8i4GSyE9KsCHLp/view?usp=share_link)
 - 발표자: 최승현
+  - [발표 자료 1](https://vulter3653.tistory.com/31), [발표 자료 2](https://vulter3653.tistory.com/32)
+  - [발표 영상](https://drive.google.com/file/d/1boHIAm0-LRKGnivVvHUxHtcW0WURZ1sj/view?usp=share_link)
+
+### 11주차(23.01.30)
+- <11장 항공 사진 내 선인장 식별 경진대회> 발표
+- 발표자: 최승현
+- 발표자: 권미정
+
+### 12주차(23.02.06)
+- <12장 병든 잎사귀 식별 경진대회> 발표
+- 발표자: 주은진
+- 발표자: 공아영
+
+### 13주차(23.02.13)
+- <13장 흉부 엑스선 기반 폐렴 진단 데이터셋> 발표
+- 발표자:
+- 발표자:
