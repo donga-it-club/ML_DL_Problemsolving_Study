@@ -110,8 +110,12 @@
 
 ### 11주차(23.01.30)
 - <11장 항공 사진 내 선인장 식별 경진대회> 발표
-- 발표자: 최승현
 - 발표자: 권미정
+  - [발표 자료 1](https://mjrecord.tistory.com/28), [발표 자료 2](https://mjrecord.tistory.com/29)
+  - [발표 영상](https://drive.google.com/file/d/1DcUNok0lKJm3U6Zsd6pHpg5_JOvYZeY1/view?usp=sharing)
+- 발표자: 최승현
+  - [발표 자료 1](https://vulter3653.tistory.com/34), [발표 자료 2](https://vulter3653.tistory.com/35), [발표 자료 3](https://vulter3653.tistory.com/36)
+  - [발표 영상](https://drive.google.com/file/d/1sps-s1Lv3MKyCDhO74hrgNXHCVepKnk2/view?usp=sharing)
 
 ### 12주차(23.02.06)
 - <12장 병든 잎사귀 식별 경진대회> 발표
