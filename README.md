@@ -120,9 +120,13 @@
 ### 12주차(23.02.06)
 - <12장 병든 잎사귀 식별 경진대회> 발표
 - 발표자: 주은진
+  - [발표 자료 1](https://dunedine.tistory.com/15), [발표 자료 2](https://dunedine.tistory.com/16)
+  - [발표 영상](https://drive.google.com/file/d/1qtfylMeVam4rWGEx9ToRy053IrnUYxC6/view?usp=sharing)
 - 발표자: 공아영
+  - [발표 자료 1](https://gongboogi.tistory.com/12), [발표 자료 2](https://gongboogi.tistory.com/13)
+  - [발표 영상 1](https://drive.google.com/file/d/1WR2JsrNf_s8BP1xPT2dYfMntngrfJUFN/view?usp=sharing), [발표 영상 2](https://drive.google.com/file/d/1_x7nmzCaxSxI6pPFs9HymvyRZOPBQmVM/view?usp=sharing)
 
 ### 13주차(23.02.13)
 - <13장 흉부 엑스선 기반 폐렴 진단 데이터셋> 발표
-- 발표자:
-- 발표자:
+- 발표자: 공아영
+- 발표자: 주은진
